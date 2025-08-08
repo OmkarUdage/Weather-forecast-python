@@ -16,7 +16,7 @@ A simple and beginner-friendly Python weather app that fetches **real-time** and
 
 ## 📸 Output
 
-Enter the name of the city: Mumbai <br>
+Enter the name of the city: Mumbai
 
 ✅ Current Weather in Mumbai, India:
 🌡️ Temperature: 30.0°C
